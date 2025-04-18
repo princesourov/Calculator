@@ -62,7 +62,7 @@
             android:onClick="backSpaceAction"
             android:text="⌫"/>
         <Button
-            style="@style/buttonNumber"
+            style="@style/buttonOperator"
             android:text=""/>
         <Button
             style="@style/buttonOperator"
